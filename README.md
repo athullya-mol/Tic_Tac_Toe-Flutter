@@ -1,16 +1,43 @@
-# tictactoe
+# Tic_Tac_Toe-Flutter
+A simple Tic Tac Toe game built in Flutter, offering an engaging gaming experience with a clean and intuitive user interface. This project implements the classic game allowing two players to take turns placing their respective symbols on a 3x3 grid.
 
-A new Flutter project.
+## Features
 
-## Getting Started
+- **Simple UI** Clean and vibrant design for easy gameplay.
+- **Light & Dark Mode support** For optiml user experience you can switch between light and dark modes.
+- **Interactive Gameplay** Enjoy a classic game with two player interaction.
 
-This project is a starting point for a Flutter application.
+## Installation
 
-A few resources to get you started if this is your first Flutter project:
+### Step 1
+- Make sure you have installed Flutter, If not then install from [Official Flutter website](https://flutter.dev/docs/get-started/install).
+### Step 2 : Clone the Repository
+- To clone this Repository https://github.com/yourusername/Tic_Tac_Toe-Flutter.git
+### Step 3 : Navigate to the project Repository
+- **cd Tic_Tac_Toe-Flutter**
+- Ensure you have an emulator or physical device connected and it's recognized by Flutter.
+### Step 4 : Run the App
+- To run the app use this command **flutter run**
+- The app will launch on your emulator or device. And there you are ready to use.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## How to Play
+- Launch the game.
+-  Choose a mode: Light or Dark.
+-  Before starting the game pick who goes first 'X' or 'O'.
+-  The First player to get three of their symbols in a row,column or diagonal wins.
+-  ENJOY THE GAME!
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Screenshots
+
+![App Screenshot](https://raw.githubusercontent.com/athullya-mol/Basic-Calculator-Flutter/main/assets/icon/calculator.png)
+### Interface
+![App Screenshot](https://github.com/athullya-mol/Tic_Tac_Toe-Flutter/blob/main/assets/images/splash_tictactoe.png)
+![App Screenshot](https://raw.githubusercontent.com/athullya-mol/Basic-Calculator-Flutter/main/assets/images/Division.jpg)
+
+## Authors
+ If you have any questions or suggestions, feel free to connect with me.
+- **GitHub** : [https://github.com/athullya-mol](https://github.com/athullya-mol)
+- **Email** : [athullyamol17@gmail.com](athullyamol17@gmail.com)
+- **Website** : [https://sites.google.com/view/athullyamol](https://sites.google.com/view/athullyamol)
+- **LinkedIn** : [https://www.linkedin.com/in/athullya-mol-s-r/](https://www.linkedin.com/in/athullya-mol-s-r/)
