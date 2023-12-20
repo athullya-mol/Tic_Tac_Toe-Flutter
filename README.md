@@ -3,9 +3,9 @@ A simple Tic Tac Toe game built in Flutter, offering an engaging gaming experien
 
 ## Features
 
-- ### Simple UI :  Clean and vibrant design for easy gameplay.
-- ###Light & Dark Mode support : ### For optimal user experience you can switch between light and dark modes.
-- ###Interactive Gameplay : ### Enjoy a classic game with two player interaction.
+- ** Simple UI :  Clean and vibrant design for easy gameplay.
+- ** Light & Dark Mode support : For optimal user experience you can switch between light and dark modes.
+- ** Interactive Gameplay :  Enjoy a classic game with two player interaction.
 
 ## Installation
 
